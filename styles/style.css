@@ -35,7 +35,8 @@ table {
   left: 30%;
   width: 40%;
   font-size: 30px;
-  border-radius: 1%; }
+  border-radius: 1%;
+  margin-bottom: 100px; }
   table td {
     padding: 10px; }
 
